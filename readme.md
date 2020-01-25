@@ -5,5 +5,5 @@ The file `get_type.py` is my solution to the challenge available here: https://g
 My solution was written in Python 3.7.4.  No libraries need to be imported into the environment.
 
 
-`test_get_type` verifies that my solution passes the provided tests.
+`test_get_type.py` verifies that my solution passes the provided tests.
 
